@@ -1,7 +1,5 @@
 Description
 
-Lien : https://lauralgweb.github.io/Voteform-php/
-
 Ce projet est un exercice de formation permettant de créer un sondage en ligne. L’objectif est de pratiquer la gestion des formulaires, des cookies et le contrôle d’un vote unique.
 
 Fonctionnalités
